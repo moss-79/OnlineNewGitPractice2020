@@ -4,3 +4,4 @@ BMW 3
 BMW X6
 Audi RB
 Tesla
+Subaru WRX STI
