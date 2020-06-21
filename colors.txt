@@ -1,3 +1,2 @@
 black
-red
-pink
+don't get this message
