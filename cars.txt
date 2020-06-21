@@ -5,3 +5,4 @@ BMW X6
 Audi RB
 Tesla
 Lexus GX470
+Subaru WRX STI
